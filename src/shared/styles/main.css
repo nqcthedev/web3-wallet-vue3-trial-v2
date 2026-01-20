@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+/* Mobile touch optimization */
+.touch-manipulation {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
